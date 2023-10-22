@@ -1,6 +1,6 @@
 body {
   margin: 40px 0;
-  font-family: "Raleway";
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   font-weight: 500;
   background-color: #242424;
@@ -11,7 +11,7 @@ body {
 
 .title {
   
-  font-family: "Raleway";
+  font-family: "Open Sans", sans-serif;
   font-size: 24px;
   font-weight: 700;
   color: #d9d9d9;
@@ -141,7 +141,7 @@ h1+p, p+p {
 }
 
 .card-info h1 {
-  font-family: "Playfair Display";
+  font-family: "Open Sans", sans-serif;
   font-size: 36px;
   font-weight: 700;
   text-shadow: rgba(black, 0.5) 0 10px 10px;
